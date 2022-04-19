@@ -74,5 +74,6 @@
 	<modules>
 		<module>authentification</module>
 		<module>visualisation</module>
+		<module>router</module>
 	</modules>
 </project>
