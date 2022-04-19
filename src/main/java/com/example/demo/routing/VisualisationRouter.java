@@ -20,5 +20,4 @@ public class VisualisationRouter {
 
 		return result;
 	}
-
 }
