@@ -73,5 +73,6 @@
 
 	<modules>
 		<module>authentification</module>
+		<module>visualisation</module>
 	</modules>
 </project>
